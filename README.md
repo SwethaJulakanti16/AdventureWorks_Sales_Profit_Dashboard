@@ -42,30 +42,34 @@ The data was derived from the AdventureWorks dataset and includes:
 - 💰 **Total Profit**: $10M  
 - 📦 **Total Orders**: 25K  
 - 🔁 **Return Rate**: 2.17%
-<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/effb17f7-37f5-4ac4-bea8-cf6c057b3d99" />
+
 
 ### 2. Sales Trends and Category Breakdown  
 - Monthly revenue growth with trendline  
 - Orders by category: Accessories, Bikes, Clothing  
 - Top 10 Products with revenue and return rate  
 - Most ordered and most returned product types
-<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/6e620da2-28f2-4be9-8c6e-04009407434d" />
+<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/effb17f7-37f5-4ac4-bea8-cf6c057b3d99" />
+
 
 ### 3. Regional Performance Map  
 - Sales volume visualized across **North America**, **Europe**, **Pacific**  
 - Region filter using dynamic buttons
-<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/f63d502e-91d3-4acd-8bc4-adfa392d3a72" />
+<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/6e620da2-28f2-4be9-8c6e-04009407434d" />
+
 
 ### 4. Product Drill-down Page  
 - Product-level metrics: revenue, profit, returns  
 - Monthly target comparisons  
 - Weekly returns and user-driven price simulation
-<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7211054a-dc97-4d73-9b67-cdab3ed71d0a" />
+<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/f63d502e-91d3-4acd-8bc4-adfa392d3a72" />
+
 
 ### 5. Customer Insights  
 - Customer breakdown by income and occupation  
 - Top 100 customers by revenue and orders  
 - Year filter and growth trend in customer base
+<img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7211054a-dc97-4d73-9b67-cdab3ed71d0a" />
 <img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/96ca9549-7956-4694-a3e2-2eed286ac48f" />
 <img width="700" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/8843cfdc-f88a-4c4b-a659-2e839ea80456" />
 
